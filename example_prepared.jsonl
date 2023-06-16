@@ -1,0 +1,15 @@
+{"prompt":"knows\"\n->","completion":" know\n"}
+{"prompt":"knew\"\n->","completion":" know\n"}
+{"prompt":"gone\"\n->","completion":" go\n"}
+{"prompt":"knowing\"\n->","completion":" know\n"}
+{"prompt":"know\"\n->","completion":" know\n"}
+{"prompt":"puts\"\n->","completion":" put\n"}
+{"prompt":"putting\"\n->","completion":" put\n"}
+{"prompt":"took\"\n->","completion":" take\n"}
+{"prompt":"lent\"\n->","completion":" lend\n"}
+{"prompt":"was\"\n->","completion":" am\n"}
+{"prompt":"becoming\"\n->","completion":" become\n"}
+{"prompt":"left\"\n->","completion":" leave\n"}
+{"prompt":"ways\"\n->","completion":" way\n"}
+{"prompt":"dogs\"\n->","completion":" dog\n"}
+{"prompt":"tacos\"\n->","completion":" taco\n"}
